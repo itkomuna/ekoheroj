@@ -1,17 +1,35 @@
     <!-- footer -->
     <footer class="py-5">
         <div class="container">
-            <div class="row">
+            <div class="row justify-content-between">
                 <div class="col-md-4">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni reprehenderit est atque voluptatum nam adipisci fugiat quas obcaecati delectus ab iure vel eius dolorem mollitia, placeat totam eos quisquam tenetur?</p>
+                    <a href="index.php"><img src="img/logo.png" alt="logo"></a>
+                    <p class="py-3">EKOportal kao izvor informacija iz Srbije i regiona. Pokrivamo teme ekologije, zaštite životne sredine, cirkularne ekonomije, održivog razvoja, i drugih eko tema.</p>
+                    <ul class="list-unstyled d-flex">
+                        <li class="me-4"><a href=""><i class="bi bi-facebook"></i></a></li>
+                        <li class="me-4"><a href=""><i class="bi bi-youtube"></i></a></li>
+                        <li class="me-4"><a href=""><i class="bi bi-instagram"></i></a></li>
+                        <li class="me-4"><a href=""><i class="bi bi-linkedin"></i></a></li>
+                    </ul>
                 </div>
-                <div class="col-md-4">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni reprehenderit est atque voluptatum nam adipisci fugiat quas obcaecati delectus ab iure vel eius dolorem mollitia, placeat totam eos quisquam tenetur?</p>
+                <div class="col-md-3 text-center">
+                    <h3>Preuzmite Ekoheroj aplikaciju</h3>
+                    <a href=""><img class="mt-5" src="img/android.png" alt=""></a>
+                    <a href=""><img class="mt-5" src="img/android.png" alt=""></a>
                 </div>
-                <div class="col-md-4">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni reprehenderit est atque voluptatum nam adipisci fugiat quas obcaecati delectus ab iure vel eius dolorem mollitia, placeat totam eos quisquam tenetur?</p>
+                <div class="col-md-3">
+                    <h3>Mapa sajta</h3>
+                    <ul class="list-unstyled">
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Onama</a></li>
+                        <li><a href="">Kontakt</a></li>
+                        <li><a href="">Nas tim</a></li>
+                        <li><a href="">Impresum</a></li>
+                    </ul>
                 </div>
             </div>
+            <div class="line"></div>
+            <p class="text-center mt-3">EkoHeroj.rs © All Rights Reserved</p>
         </div>
     </footer> 
 

@@ -1,5 +1,13 @@
 <?php include 'header.php'; ?>
 
-    <h1 class="display-1 text-center py-5">Home strana</h1>
+    <header class="homeHeader">
+        <div class="hgroup">
+            <h1>Dobrodošli na EKOHEROJ portal</h1>
+            <div class="buttons text-center">
+                <a href="" class="btn btn-warning">O nama</a>
+                <a href="" class="btn btn-success">Kontakt</a>
+            </div>
+        </div>
+    </header>
 
 <?php include 'footer.php'; ?>
