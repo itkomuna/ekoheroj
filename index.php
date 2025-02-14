@@ -6,4 +6,6 @@
 
 <?php include 'partials/swiper-vesti.php'; ?>
 
+<?php include 'partials/swiper-cat.php'; ?>
+
 <?php include 'partials/footer.php'; ?>
